@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="hintName">Enter your full name</string>
+    <string name="name">Name: </string>
+    <string name="number">Mobile Number:</string>
+    <string name="pax">Number of People:</string>
+    <string name="date">Reservation Date: </string>
+    <string name="time">Reservation Time:</string>
+    <string name="hintNumber">Enter your number</string>
+    <string name="hintPax">Enter the number of pax</string>
+    <string name="seating">Choose your area of seating</string>
+    <string name="smoking">Smoking Area</string>
+    <string name="reserve">Reserve a Table</string>
+    <string name="confirm">Confirm Booking</string>
+    <string name="reset">Reset Details</string>
+</resources>
